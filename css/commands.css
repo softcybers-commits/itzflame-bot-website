@@ -1,8 +1,10 @@
 .choose-section h1{
     color: #eee;
     text-align: center;
+    position: relative;
+    top: 50px;
     font-family: Comic Sans MS;
-    font-size: 70px;
+    font-size: 45px;
 }
 
 .buttons a:link {
